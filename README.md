@@ -8,7 +8,9 @@ This is a simple media player that allows you to play audio and video files. It 
 - Basic playback controls (play, pause, stop, seek)
 - Keyboard shortcuts
 # Installation
-To install the media player just download both setups and install them. K lite codec pack is used to run various file formats.
+To install the media player just download both setups and install them. 
+https://github.com/Ujaaslohani/Fly-Player/releases
+K lite codec pack is used to run various file formats.
 You can install the standard version from 
 https://www.codecguide.com/download_kl.htm
 # Usage
